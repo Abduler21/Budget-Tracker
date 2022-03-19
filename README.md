@@ -8,3 +8,5 @@ Budget-Tracker is a Progressive Web Application or PWA for short. with the Budge
 
 Checkout out the app!
 https://whereyomoneyat.herokuapp.com/
+
+<img width="1440" alt="budget" src="https://user-images.githubusercontent.com/90392805/159102317-5cd127e1-0010-4102-afb2-142bb7b88541.png">
